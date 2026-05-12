@@ -84,10 +84,3 @@
 
 ---
 
-### 📊 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazzyai&theme=minimal&hide_border=true&color=4361EE&line=4361EE&point=4361EE&area=true&area_color=4361EE" width="100%"/>
-
-</div>
