@@ -8,15 +8,13 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hazzyai.github.io-4361EE?style=for-the-badge)](https://hazzyai.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐%20포트폴리오-hazzyai.github.io-4361EE?style=for-the-badge)](https://hazzyai.github.io)
 &nbsp;
-[![Email](https://img.shields.io/badge/📧%20Email-gkckdals3@naver.com-555555?style=for-the-badge)](mailto:gkckdals3@naver.com)
+[![Email](https://img.shields.io/badge/📧-gkckdals3@naver.com-555555?style=for-the-badge)](mailto:gkckdals3@naver.com)
 
 </div>
 
 ---
-
-### 👤 About
 
 ```
 🔐  필상 (Pillsang)      ML 엔지니어 — 피싱 탐지 AI 모델 설계·실서비스 배포
@@ -24,75 +22,65 @@
 📋  국가 R&D 2회         딥테크 TIPS · 스케일업 TIPS
 🏆  수상 5회             교외 3관 · 교내 2관
 📄  특허 등록 2건
-📍  Daejeon, Korea
 ```
 
 ---
 
-### 🌐 Portfolio
+### 🚀 프로젝트
 
-> 전체 프로젝트·논문·수상 이력은 포트폴리오에서 확인할 수 있습니다.
+[**필상 AI Chrome 확장프로그램**](https://github.com/hazzyAI/pillsang-chrome-extension)
+`피싱 탐지` `CatBoost ONNX` `Manifest V3` `온디바이스 추론` `2단계 탐지`
 
-**👉 [hazzyai.github.io](https://hazzyai.github.io)**
+[**싹다잡아 피싱 탐지 모델**](https://play.google.com/store/apps/details?id=com.pillsang.ssagdajabwa)
+`누적 50만+ 다운로드` `Android 온디바이스` `ONNX 경량화` `10ms 추론`
 
----
+[**딥테크 TIPS R&D**](https://github.com/hazzyAI/Deeptech_Pillsang_AI)
+`Cascade 멀티스테이지` `피싱 탐지 고도화` `NLP 딥러닝`
 
-### 🚀 Featured Projects
-
-| | 프로젝트 | 설명 |
-|--|----------|------|
-| 🔐 | [필상 AI Chrome 확장프로그램](https://github.com/hazzyAI/pillsang-chrome-extension) | DB 조회 → ONNX 온디바이스 2단계 피싱 탐지 |
-| 📱 | [싹다잡아 피싱 탐지 모델](https://play.google.com/store/apps/details?id=com.pillsang.ssagdajabwa) | 누적 50만+ 다운로드 보안 앱 탑재 |
-| 🔬 | [딥테크 R&D](https://github.com/hazzyAI/Deeptech_Pillsang_AI) | Cascade 멀티스테이지 피싱 탐지 연구 |
-| 🐄 | [스마트축사 AI](https://github.com/hazzyAI/SK-Competition) | Swin Transformer 한우 발정 탐지 (mAP 0.97) |
-| 🧬 | [단백질 수소결합 예측](https://github.com/hazzyAI/BIOAI-Competition) | ML + BioPython 특성 추출 (RMSE 54% 개선) |
+[**스케일업 TIPS R&D**](https://github.com/hazzyAI/Scaleup_Pillsang_AI)
+`Multimodal RAG` `Llama 3.1 70B QLoRA` `BGE-M3` `SigLIP` `PaddleOCR`
 
 ---
 
-### 🏆 Competitions
+### 🏆 대회
 
-| 수상 | 대회 | 주최 | 연도 |
-|------|------|------|------|
-| 🥉 3위 · IITP 원장상 | [AI 대학원 챌린지 with KT 믿:음](https://github.com/hazzyAI/KT-AI-Competition) | KT · IITP | 2023 |
-| 🥈 우수상 | [스마트축사 데이터 활용대회](https://github.com/hazzyAI/SK-Competition) | 과기부 · NIA · SK | 2022 |
-| 🥇 대상 · 1위 | [바이오AI융합 해커톤](https://github.com/hazzyAI/BIOAI-Competition) | DACON | 2022 |
-| 🏆 최우수상 | 바이오AI융합인재 특허 아이디어 대회 | 충남대 | 2022 |
-| 🥈 우수상 | [바이오AI융합 경진대회](https://github.com/hazzyAI/BIOAI2-Competition) | 충남대 · 신테카바이오 | 2021 |
+[**AI 대학원 챌린지 with KT 믿:음**](https://github.com/hazzyAI/KT-AI-Competition) — 🥉 3위 · IITP 원장상
+`LLM 파인튜닝` `의료 AI` `대화형 진단` `데이터 증강`
+
+[**스마트축사 데이터 활용대회**](https://github.com/hazzyAI/SK-Competition) — 🥈 우수상
+`Swin Transformer` `Instance Segmentation` `한우 발정 탐지` `mAP 0.97`
+
+[**바이오AI융합 해커톤**](https://github.com/hazzyAI/BIOAI-Competition) — 🥇 대상 · 1위
+`단백질 수소결합 예측` `BioPython` `CatBoost` `RMSE 54% 개선`
+
+[**바이오AI융합 경진대회**](https://github.com/hazzyAI/BIOAI2-Competition) — 🥈 우수상
+`알츠하이머 예측` `유전자 발현` `CNN` `Accuracy 97.5%`
 
 ---
 
-### 🛠 Tech Stack
+### 🔬 연구
 
-**ML / DL**
+**머신러닝과 단백질 특징 추출 기법을 이용한 단백질 간의 수소 결합력 예측** — 석사 졸업논문 (2023)
+`BioPython` `앙상블 모델` `RMSE 2.00866`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**특징 추출을 활용한 단백질-단백질 수소 결합 거리 예측** — AAiCON 2023
+`충남대 · 신테카바이오 공동연구`
 
-**MLOps / 경량화**
+**Swin Transformer 모델을 적용한 한우 발정 탐지** — KSC 2023
+`Computer Vision` `Instance Segmentation`
 
-![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
-![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+**단백질-단백질 수소 결합 거리 예측 연구** — KDBC 2022
+`KISTI · ETRI · UST · 충남대 공동연구`
 
-**LLM / RAG**
+---
 
-![Llama](https://img.shields.io/badge/Llama_3.1_70B-0467DF?style=flat-square)
-![QLoRA](https://img.shields.io/badge/QLoRA_Fine--tuning-8B5CF6?style=flat-square)
-![BGE-M3](https://img.shields.io/badge/BGE--M3-059669?style=flat-square)
-![SigLIP](https://img.shields.io/badge/SigLIP-DB4437?style=flat-square)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=flat-square)
+### 📄 특허
 
-**CV / NLP / Bio**
+**인공신경망 기반의 약물-표적 단백질 상호작용 모델을 활용한 청소율 예측 시스템**
+`특허 제10-2730477호` `등록 2024.11`
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Swin Transformer](https://img.shields.io/badge/Swin_Transformer-6366F1?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-10B981?style=flat-square)
-![BioPython](https://img.shields.io/badge/BioPython-2E8B57?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**스마트 금고 인증 방법 및 이를 이용한 시스템**
+`공개특허 10-2023-0127426` `등록완료`
 
 ---
 
