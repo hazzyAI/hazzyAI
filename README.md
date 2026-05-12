@@ -31,7 +31,7 @@
 [**필상 AI Chrome 확장프로그램**](https://github.com/hazzyAI/pillsang-chrome-extension)
 `피싱 탐지` `CatBoost ONNX` `Manifest V3` `온디바이스 추론` `2단계 탐지`
 
-[**싹다잡아 피싱 탐지 모델**](https://play.google.com/store/apps/details?id=com.pillsang.ssagdajabwa)
+[**싹다잡아 피싱 탐지 모델**](https://play.google.com/store/apps/details?id=com.ps.wb&hl=ko)
 `누적 50만+ 다운로드` `Android 온디바이스` `ONNX 경량화` `10ms 추론`
 
 ---
