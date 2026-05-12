@@ -34,12 +34,6 @@
 [**싹다잡아 피싱 탐지 모델**](https://play.google.com/store/apps/details?id=com.pillsang.ssagdajabwa)
 `누적 50만+ 다운로드` `Android 온디바이스` `ONNX 경량화` `10ms 추론`
 
-[**딥테크 TIPS R&D**](https://github.com/hazzyAI/Deeptech_Pillsang_AI)
-`Cascade 멀티스테이지` `피싱 탐지 고도화` `NLP 딥러닝`
-
-[**스케일업 TIPS R&D**](https://github.com/hazzyAI/Scaleup_Pillsang_AI)
-`Multimodal RAG` `Llama 3.1 70B QLoRA` `BGE-M3` `SigLIP` `PaddleOCR`
-
 ---
 
 ### 🏆 대회
@@ -59,6 +53,12 @@
 ---
 
 ### 🔬 연구
+
+[**딥테크 TIPS — Cascade 피싱 탐지 연구**](https://github.com/hazzyAI/Deeptech_Pillsang_AI) — 국가 R&D (2024)
+`Cascade 멀티스테이지` `피싱 탐지 고도화` `NLP 딥러닝`
+
+[**스케일업 TIPS — Multimodal RAG 연구**](https://github.com/hazzyAI/Scaleup_Pillsang_AI) — 국가 R&D (2024)
+`Multimodal RAG` `Llama 3.1 70B QLoRA` `BGE-M3` `SigLIP` `PaddleOCR`
 
 **머신러닝과 단백질 특징 추출 기법을 이용한 단백질 간의 수소 결합력 예측** — 석사 졸업논문 (2023)
 `BioPython` `앙상블 모델` `RMSE 2.00866`
