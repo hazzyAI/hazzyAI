@@ -84,12 +84,10 @@
 
 ---
 
-### 📊 Stats
+### 📊 Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hazzyai&show_icons=true&hide_border=true&title_color=4361EE&icon_color=4361EE&text_color=18181B&bg_color=F7F8FB&hide=stars&count_private=true&cache_seconds=1800" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzyai&layout=compact&hide_border=true&title_color=4361EE&text_color=18181B&bg_color=F7F8FB&cache_seconds=1800&langs_count=6" height="150"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazzyai&theme=minimal&hide_border=true&color=4361EE&line=4361EE&point=4361EE&area=true&area_color=4361EE" width="100%"/>
 
 </div>
