@@ -1,18 +1,16 @@
-<img src="assets/profile.jpg" width="130" align="right" style="border-radius:12px; margin-left:24px; margin-bottom:12px;">
-
 ## 하정민 · Jungmin Ha
 
 **ML Engineer · AI 석사 · Daejeon, Korea**
 
-누적 다운로드 50만 보안 앱에 피싱 탐지 모델을 최초 설계·배포했습니다.
+데이터 수집부터 모델 설계, 실서비스 배포까지 — AI 개발 전 과정을 경험한 ML 엔지니어입니다.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hazzyai.github.io-4361EE?style=flat-square)](https://hazzyai.github.io)
 &nbsp;
-[![Email](https://img.shields.io/badge/📧_Email-gkckdals0323@pillsang.com-555?style=flat-square)](mailto:gkckdals0323@pillsang.com)
+[![Email](https://img.shields.io/badge/📧-gkckdals3@naver.com-555555?style=flat-square)](mailto:gkckdals3@naver.com)
 
 ---
 
-### 🔎 About
+### About
 
 ```
 🔐  필상 ML 엔지니어   — 피싱 탐지 AI 모델 설계·실서비스 배포
@@ -26,27 +24,39 @@
 
 ### 🛠 Tech Stack
 
-**ML / Deployment**
+**Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Feature_Analysis-FF6B6B?style=flat-square)
 
-**Deep Learning**
+**Deep Learning / CV / NLP**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Swin Transformer](https://img.shields.io/badge/Swin_Transformer-CV-6366F1?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-NLP-10B981?style=flat-square)
+![Swin Transformer](https://img.shields.io/badge/Swin_Transformer-6366F1?style=flat-square)
+![BERT](https://img.shields.io/badge/BERT-10B981?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![mmdetection](https://img.shields.io/badge/mmdetection-Instance_Seg-F59E0B?style=flat-square)
 
 **LLM / RAG**
 
 ![Llama](https://img.shields.io/badge/Llama_3.1_70B-0467DF?style=flat-square)
-![QLoRA](https://img.shields.io/badge/QLoRA-Fine--tuning-8B5CF6?style=flat-square)
-![BGE-M3](https://img.shields.io/badge/BGE--M3-Embedding-059669?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC143C?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA_Fine--tuning-8B5CF6?style=flat-square)
+![BGE-M3](https://img.shields.io/badge/BGE--M3_Embedding-059669?style=flat-square)
+![SigLIP](https://img.shields.io/badge/SigLIP_Vision-DB4437?style=flat-square)
+![T5](https://img.shields.io/badge/T5_Fine--tuning-4285F4?style=flat-square)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=flat-square)
+
+**Domain / Other**
+
+![BioPython](https://img.shields.io/badge/BioPython-Protein_Features-2E8B57?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![HMAC](https://img.shields.io/badge/HMAC_Auth-Security-DC2626?style=flat-square)
 
 ---
 
