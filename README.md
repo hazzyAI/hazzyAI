@@ -40,7 +40,7 @@
   <tr>
     <td><b>📄</b></td>
     <td><b>특허 등록 2건</b></td>
-    <td></td>
+    <td>AI 관련 특허 2건</td>
   </tr>
 </table>
 
