@@ -36,10 +36,10 @@
     <td>📋</td><td align="left"><strong>국가 R&D</strong></td><td align="left">딥테크 TIPS · 스케일업 TIPS</td>
   </tr>
   <tr>
-    <td>🏆</td><td align="left"><strong>대회수상</strong></td><td align="left">교외 3관 · 교내 2관</td>
+    <td>🏆</td><td align="left"><strong>대회 수상</strong></td><td align="left">교외 3관 · 교내 2관</td>
   </tr>
   <tr>
-    <td>📄</td><td align="left"><strong>특허</strong></td><td align="left">AI 관련 특허 2건</td>
+    <td>📄</td><td align="left"><strong>특허</strong></td><td align="left">AI 관련 특허 2건 등록</td>
   </tr>
 </table>
 
