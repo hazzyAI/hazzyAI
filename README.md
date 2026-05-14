@@ -16,10 +16,10 @@
 
 <table>
   <tr>
-    <td align="center" width="160"><h3>2회</h3><sub>AI 실서비스 배포</sub></td>
-    <td align="center" width="160"><h3>2회</h3><sub>국가과제 수행</sub></td>
-    <td align="center" width="160"><h3>5회</h3><sub>대회 수상</sub></td>
-    <td align="center" width="160"><h3>2건</h3><sub>특허 등록</sub></td>
+    <td align="center" width="160"><h1>2회</h1>AI 실서비스 배포</td>
+    <td align="center" width="160"><h1>2회</h1>국가과제 수행</td>
+    <td align="center" width="160"><h1>5회</h1>대회 수상</td>
+    <td align="center" width="160"><h1>2건</h1>특허 등록</td>
   </tr>
 </table>
 
