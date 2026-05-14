@@ -30,16 +30,16 @@
     <td>🔐</td><td align="left"><strong>AI 서비스 개발</strong></td><td align="left">모델 탑재 서비스 개발 · 배포 2회 (싹다잡아 앱 · 싹다잡아 Chrome 확장프로그램)</td>
   </tr>
   <tr>
-    <td>🎓</td><td align="left"><strong>논문</strong></td><td align="left">Research — 석사논문 1회 · 국내 학술발표 3회</td>
+    <td>🎓</td><td align="left"><strong>논문</strong></td><td align="left">석사논문 1회 · 국내 학술발표 3회</td>
   </tr>
   <tr>
-    <td>📋</td><td align="left"><strong>국가 R&D 2회</strong></td><td align="left">딥테크 TIPS · 스케일업 TIPS</td>
+    <td>📋</td><td align="left"><strong>국가 R&D</strong></td><td align="left">딥테크 TIPS · 스케일업 TIPS</td>
   </tr>
   <tr>
-    <td>🏆</td><td align="left"><strong>수상 5회</strong></td><td align="left">교외 3관 · 교내 2관</td>
+    <td>🏆</td><td align="left"><strong>대회수상</strong></td><td align="left">교외 3관 · 교내 2관</td>
   </tr>
   <tr>
-    <td>📄</td><td align="left"><strong>특허 등록 2건</strong></td><td align="left">AI 관련 특허 2건</td>
+    <td>📄</td><td align="left"><strong>특허</strong></td><td align="left">AI 관련 특허 2건</td>
   </tr>
 </table>
 
