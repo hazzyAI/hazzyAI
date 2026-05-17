@@ -356,24 +356,74 @@
         <p class="project-desc">
           사용자가 사이트 접속을 할 때마다 URL을 실시간으로 분석해 유해 사이트를 자동 감지하는 Chrome 확장프로그램입니다. 서버 DB 조회(블랙리스트/화이트리스트)와 온디바이스 AI 모델 추론을 결합한 2단계 탐지 구조로 설계했으며, 기획부터 Chrome Web Store 심사 제출까지 단독 개발했습니다.
         </p>
-        <!-- 팝업 케이스별 스크린샷 -->
-        <div class="ext-shots">
-          <div class="ext-shot">
-            <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/01.png" alt="안전">
-            <span class="ext-shot-label" style="color:#166534;">🟢 안전</span>
+        <!-- 케이스별 스크린샷 (전체 11장) -->
+        <div class="pipeline-box" style="display:flex;flex-direction:column;gap:0.9rem;">
+
+          <!-- 팝업 · 보안 탭 -->
+          <div>
+            <p class="pipeline-label" style="margin-bottom:0.45rem;">팝업 · 보안 탭 (4단계 판정)</p>
+            <div class="ext-shots" style="grid-template-columns:repeat(5,1fr);gap:0.4rem;">
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/01.png" alt="안전(DB)">
+                <span class="ext-shot-label" style="color:#166534;">🟢 안전<br><small style="font-weight:400;color:var(--ink-light);">DB 등록</small></span>
+              </div>
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/02.png" alt="안전(AI)">
+                <span class="ext-shot-label" style="color:#166534;">🟢 안전<br><small style="font-weight:400;color:var(--ink-light);">AI 추론</small></span>
+              </div>
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/03.png" alt="비교적 안전">
+                <span class="ext-shot-label" style="color:#1E40AF;">🔵 비교적<br>안전</span>
+              </div>
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/06.png" alt="유해 의심">
+                <span class="ext-shot-label" style="color:#C2410C;">🟠 유해<br>의심</span>
+              </div>
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/07.png" alt="유해 사이트">
+                <span class="ext-shot-label" style="color:#991B1B;">🔴 유해<br>사이트</span>
+              </div>
+            </div>
           </div>
-          <div class="ext-shot">
-            <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/02.png" alt="비교적 안전">
-            <span class="ext-shot-label" style="color:#1E40AF;">🔵 비교적 안전</span>
+
+          <!-- 자동 액션 -->
+          <div>
+            <p class="pipeline-label" style="margin-bottom:0.45rem;">자동 액션 (임계값 초과 시)</p>
+            <div class="ext-shots" style="grid-template-columns:1fr 1fr;gap:0.5rem;">
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/04.png" alt="Chrome 알림">
+                <span class="ext-shot-label" style="color:#C2410C;">⚠️ Chrome 알림<br><small style="font-weight:400;color:var(--ink-light);">확률 ≥ 70%</small></span>
+              </div>
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/05.png" alt="사이트 차단">
+                <span class="ext-shot-label" style="color:#991B1B;">🚫 사이트 차단<br><small style="font-weight:400;color:var(--ink-light);">확률 ≥ 80%</small></span>
+              </div>
+            </div>
           </div>
-          <div class="ext-shot">
-            <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/03.png" alt="유해 의심">
-            <span class="ext-shot-label" style="color:#C2410C;">🟠 유해 의심</span>
+
+          <!-- 히스토리 & 설정 -->
+          <div>
+            <p class="pipeline-label" style="margin-bottom:0.45rem;">히스토리 & 설정</p>
+            <div class="ext-shots" style="grid-template-columns:repeat(4,1fr);gap:0.4rem;">
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/08.png" alt="일간 통계">
+                <span class="ext-shot-label">📊 일간<br>통계</span>
+              </div>
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/09.png" alt="주간 통계">
+                <span class="ext-shot-label">📊 주간<br>통계</span>
+              </div>
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/10.png" alt="위험 URL 필터">
+                <span class="ext-shot-label">🔴 위험 URL<br>필터</span>
+              </div>
+              <div class="ext-shot">
+                <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/11.png" alt="설정">
+                <span class="ext-shot-label">⚙️ 알림·차단<br>설정</span>
+              </div>
+            </div>
           </div>
-          <div class="ext-shot">
-            <img src="https://raw.githubusercontent.com/hazzyAI/pillsang-chrome-extension/main/assets/screenshots/04.png" alt="유해 사이트">
-            <span class="ext-shot-label" style="color:#991B1B;">🔴 유해 사이트</span>
-          </div>
+
         </div>
         <div class="pipeline-box">
           <p class="pipeline-label">전체 예측 로직</p>
