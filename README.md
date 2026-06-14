@@ -73,17 +73,18 @@
 ### 필상 AI Chrome 확장프로그램
 
 [![GitHub](https://img.shields.io/badge/GitHub-pillsang--chrome--extension-181717?style=flat-square&logo=github)](https://github.com/hazzyAI/pillsang-chrome-extension)
-![Chrome](https://img.shields.io/badge/Chrome_Web_Store-심사중-FFA500?style=flat-square&logo=google-chrome&logoColor=white)
+[![Chrome](https://img.shields.io/badge/Chrome_Web_Store-서비스중-3DDC84?style=flat-square&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/%EC%8B%B9%EB%8B%A4%EC%9E%A1%EC%95%84/dejmfhghagbkejmhbcmjhjfpnnnaiflg?hl=ko&utm_source=ext_sidebar)
 
-`CatBoost ONNX` `Manifest V3` `Service Worker` `온디바이스 추론` `2단계 탐지`
+`Boosting Model` `ONNX Runtime` `Manifest V3` `Service Worker` `Feature Selection` `온디바이스`
 
 AI 탐지 기능을 탑재한 Chrome 확장프로그램을 **기획부터 배포까지 단독 개발**했습니다.
 
 - **1차 탐지**: 서버 DB API 조회 (화이트/블랙리스트 즉시 판별)
+- **1.5차 탐지**: 성인/도박 사이트 필터링
 - **2차 탐지**: 미등록 URL → CatBoost ONNX 온디바이스 추론
+- **3차 탐지**: 후처리 로직 (프로토콜 검사 · 성인 콘텐츠 blur)
 - 탐지 결과 DB 적재 → 신규 URL 자동 리스트 편입 (피드백 루프 구성)
 - 악성 확률에 따른 4단계 UI 표시 · 자동 알림 · 리디렉션 처리
-
 <br>
 
 ---
