@@ -30,13 +30,13 @@
     <td>🔐</td><td align="left"><strong>AI 서비스 개발</strong></td><td align="left">모델 탑재 서비스 개발 · 배포 2회 (싹다잡아 앱 · 싹다잡아 Chrome 확장프로그램)</td>
   </tr>
   <tr>
-    <td>🎓</td><td align="left"><strong>논문</strong></td><td align="left">석사논문 1회 · 국내 학술발표 3회</td>
+    <td>🎓</td><td align="left"><strong>논문</strong></td><td align="left">졸업논문 및 국내 학술발표 3회</td>
   </tr>
   <tr>
     <td>📋</td><td align="left"><strong>국가 R&D</strong></td><td align="left">딥테크 TIPS · 스케일업 TIPS</td>
   </tr>
   <tr>
-    <td>🏆</td><td align="left"><strong>대회 수상</strong></td><td align="left">교외 3관 · 교내 2관</td>
+    <td>🏆</td><td align="left"><strong>대회 수상</strong></td><td align="left">기업 주관 3회 · 교내 주관 2회 수상</td>
   </tr>
   <tr>
     <td>📄</td><td align="left"><strong>특허</strong></td><td align="left">AI 관련 특허 2건 등록</td>
@@ -57,15 +57,16 @@
 
 [![PlayStore](https://img.shields.io/badge/Google_Play-누적_50만+_다운로드-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ps.wb&hl=ko)
 
-`CatBoost` `ONNX Runtime` `Android 온디바이스` `SHAP` `MLflow`
+`Boosting Model` `ONNX Runtime` `Android 온디바이스` `Feature Selection` `MLflow`
 
 누적 다운로드 **50만+ 보안 앱**에 피싱 탐지 ML 모델을 **최초로 설계·탑재**했습니다.
 
-- 논문 기반 특성 후보군 선정 → 180개 수치형 특성 구성 → Feature Selection으로 80개 압축
-- CatBoost 모델 선정 및 파인튜닝 → ONNX 변환 → Python 출력값 정합성 검증
+- 논문 기반 특성 후보군 180개 특성 선정 → Feature Selection으로 80개 압축
+- 모델 선정 및 경량화 → 모델 하이퍼 파라미터 튜닝(경량성 고려) → ONNX 변환 → Python 출력값 정합성 검증
+- 온디바이스 탑재 테스트 (모델 크기 · 추론속도 · Peak 메모리 · 라이브러리 로드 속도 및 용량 고려)
 - HTML 수집 불가 환경을 위한 Fallback 구조 별도 설계
 - Android 온디바이스 추론 구현 · **추론 시간 10ms 이하** 달성
-- MLflow 실험 관리 · SHAP 기반 모델 해석
+- MLflow 실험 관리 · SHAP 기반 모델 해석 및 시각화
 
 <br>
 
@@ -133,7 +134,7 @@ OCR 텍스트 ──┤         BGE-M3 임베딩 / SigLIP
 
 <br>
 
-## &nbsp; 🌐 교외대회 &nbsp; · &nbsp; 3관
+## &nbsp; 🏢 기업 주관 대회 &nbsp; · &nbsp; 3회 수상
 
 <br>
 
@@ -171,7 +172,7 @@ BERT 기반 단백질 언어모델(ESM-v2)과 BioPython 기반 도메인 특성 
 
 <br>
 
-## &nbsp; 🏫 교내대회 &nbsp; · &nbsp; 2관
+## &nbsp; 🏫 교내 주관 대회 &nbsp; · &nbsp; 2회 수상
 
 <br>
 
