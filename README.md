@@ -291,7 +291,7 @@ raw_image ─▶ SigLIP ─▶ VectorDB (image)─┘
 
 **ML / 경량화**
 
-![Boosting Model](https://img.shields.io/badge/CatBoost-FFD700?style=flat-square)
+![Boosting Model](https://img.shields.io/badge/Boosting_Model-FFD700?style=flat-square)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
